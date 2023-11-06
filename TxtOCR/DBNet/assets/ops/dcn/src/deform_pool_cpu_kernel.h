@@ -1,6 +1,4 @@
 /*
-Created by Jaided AI
-Released Date: 31/08/2022
 Description:
 Deformable convolution kernel for CPU. 
 This code is adapted from;

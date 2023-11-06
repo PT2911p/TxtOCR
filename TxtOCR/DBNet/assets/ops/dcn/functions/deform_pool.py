@@ -1,6 +1,4 @@
 '''
-Modified by Jaided AI
-Released Date: 31/08/2022
 Description:
 - Add support for Deformable convolution operator on CPU for forward propagation.
 - Change to Just-in-Time loading approach
@@ -11,7 +9,7 @@ import torch
 from torch.autograd import Function
 from torch.utils import cpp_extension
 
-# TODO - Jaided AI: 
+# TODO 
 # 1. Find a better way to handle and support both Ahead-of-Time (AoT) and Just-in-Time (JiT) compilation.
 # 2. Find a better way to report error to help pinpointing issues if there is any.
 # Note on JiT and AoT compilation:

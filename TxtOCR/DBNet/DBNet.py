@@ -1,6 +1,4 @@
 '''
-Created by Jaided AI
-Released Date: 18/08/2022
 Description:
 DBNet text detection module. 
 Many parts of the codes are adapted from https://github.com/MhLiao/DB
